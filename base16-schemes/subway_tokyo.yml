@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_Tokyo"
+author: "Jan T. Sott"
+base00: "000000" # ----
+base01: "222222" # ---
+base02: "3a3a3a" # --
+base03: "545454" # -
+base04: "8e8e8e" # +
+base05: "aaaaaa" # ++
+base06: "dddddd" # +++
+base07: "ffffff" # ++++
+base08: "ed1c24" # red (Marunouchi)
+base09: "f8981d" # orange (Ginza)
+base0A: "e5ab11" # yellow (Yarakucho)
+base0B: "00a35d" # green (Chiyoda)
+base0C: "00b6a1" # aqua (Namboku)
+base0D: "4dabd6" # blue (Tozai)
+base0E: "913493" # purple (Hanzomonb)
+base0F: "bd4d1d" # brown (Fukutoshin)

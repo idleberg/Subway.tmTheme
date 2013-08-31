@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_Sao_Paulo"
+author: "Jan T. Sott"
+base00: "231f20" # ----
+base01: "3d3a3b" # ---
+base02: "504c4e" # --
+base03: "7a7879" # -
+base04: "908f8f" # +
+base05: "a6a5a5" # ++
+base06: "cdcccd" # +++
+base07: "e7e7e8" # ++++
+base08: "c9202d" # red (EMTU)
+base09: "ea5037" # orange (Linha 11)
+base0A: "fed243" # yellow (Linha 4)
+base0B: "107e61" # green (Linha 2)
+base0C: "19a68e" # aqua (Linha 9)
+base0D: "0a579c" # blue (Linha 1)
+base0E: "a34a97" # purple (Linha 7)
+base0F: "78151a" # brown (Expresso Turístico)

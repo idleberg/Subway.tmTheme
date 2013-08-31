@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_Moscow"
+author: "Jan T. Sott"
+base00: "221f1f" # ----
+base01: "3f3d3d" # ---
+base02: "545052" # --
+base03: "838080" # -
+base04: "b3b2b2" # +
+base05: "c9c9c9" # ++
+base06: "dddddc" # +++
+base07: "ffffff" # ++++
+base08: "ed1c24" # red (1)
+base09: "fbaa33" # orange (6)
+base0A: "ffd400" # yellow (8)
+base0B: "009854" # green (2)
+base0C: "0092b9" # aqua (11)
+base0D: "00529f" # blue (3)
+base0E: "b41e8e" # purple (7)
+base0F: "745d32" # brown (5)

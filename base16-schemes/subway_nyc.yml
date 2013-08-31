@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_NYC"
+author: "Jan T. Sott"
+base00: "221f1f" # ----
+base01: "3d3a37" # ---
+base02: "514d48" # --
+base03: "968e83" # -
+base04: "aca498" # +
+base05: "c2baaa" # ++
+base06: "d5ccbb" # +++
+base07: "f1e7d3" # ++++
+base08: "e8424a" # red (123)
+base09: "f0813b" # orange (BDFM)
+base0A: "fdd24b" # yellow (NQR)
+base0B: "219b5c" # green (456)
+base0C: "81bd51" # aqua (G)
+base0D: "186eb1" # blue (ACE)
+base0E: "994493" # purple (7)
+base0F: "ae7029" # brown (JZ)
