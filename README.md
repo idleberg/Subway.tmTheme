@@ -47,6 +47,6 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 * When using or citing the work, you should not imply [endorsement](http://creativecommons.org/publicdomain/mark/1.0/) by the author or the person who identified the work.
 
-[1]: https://raw.github.com/idleberg/Subway.tmTheme/master/preview/screenshot.gif
+[1]: https://raw.github.com/idleberg/Subway.tmTheme/master/images/screenshot.gif
 [2]: http://wbond.net/sublime_packages/package_control/
 [3]: http://wbond.net/sublime_packages/package_control/settings/
