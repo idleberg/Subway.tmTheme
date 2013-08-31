@@ -2,6 +2,8 @@
 
 A collection of color schemes based on subway maps from around the world.
 
+![Animated Screenshot][1]
+
 ## Installation
 
 ### TextMate
@@ -13,11 +15,11 @@ A collection of color schemes based on subway maps from around the world.
 
 #### Package Control
 
-1. Make sure you already have [Package Control][1] installed
+1. Make sure you already have [Package Control][2] installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
 3. Select *Subway Color Schemes* and press `Enter`
 
-With [auto_upgrade][2] enabled, Package Control will keep all installed packages up-to-date!
+With [auto_upgrade][3] enabled, Package Control will keep all installed packages up-to-date!
 
 #### Manual Installation
 
@@ -45,5 +47,6 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 * When using or citing the work, you should not imply [endorsement](http://creativecommons.org/publicdomain/mark/1.0/) by the author or the person who identified the work.
 
-[1]: http://wbond.net/sublime_packages/package_control/
-[2]: http://wbond.net/sublime_packages/package_control/settings/
+[1]: https://raw.github.com/idleberg/Subway.tmTheme/master/preview/screenshot.gif
+[2]: http://wbond.net/sublime_packages/package_control/
+[3]: http://wbond.net/sublime_packages/package_control/settings/

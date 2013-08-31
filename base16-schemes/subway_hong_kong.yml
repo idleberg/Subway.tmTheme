@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_Hong_Kong"
+author: "Jan T. Sott"
+base00: "000000" # ----
+base01: "101010" # ---
+base02: "303030" # --
+base03: "505050" # -
+base04: "a0a0a0" # +
+base05: "c0c0c0" # ++
+base06: "e0e0e0" # +++
+base07: "ffffff" # ++++
+base08: "d83431" # red (Tsuen Wan)
+base09: "e98f3a" # orange (Tung Chung)
+base0A: "d5ae34" # yellow (Light)
+base0B: "15a65a" # green (Kwun Tong)
+base0C: "5eb5d8" # aqua (East Rail)
+base0D: "0073ab" # blue (Island)
+base0E: "ce80a9" # purple (Disneyland Resort)
+base0F: "934524" # brown (Ma On Shan)
