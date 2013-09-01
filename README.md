@@ -1,6 +1,6 @@
 # Subway for TextMate & Sublime Text
 
-A collection of color schemes based on subway maps from around the world.
+Since most subway maps feature a color palette optimized to be read on bright backgrounds, I wanted to translate these into a color schemes for Text mate and Sublime Text. Here are color schemes inspired by subway maps from New York City, Tokyo, Paris, Barcelona and other cities, each available in a dark variant as well.
 
 ![Animated Screenshot][1]
 
