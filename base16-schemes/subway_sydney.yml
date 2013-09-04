@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Subway_Sydney"
+author: "Jan T. Sott"
+base00: "000000" # ----
+base01: "101010" # ---
+base02: "303030" # --
+base03: "505050" # -
+base04: "a0a0a0" # +
+base05: "c0c0c0" # ++
+base06: "e0e0e0" # +++
+base07: "ffffff" # ++++
+base08: "e21836" # red (Northern)
+base09: "f68e1e" # orange (Bankstownb)
+base0A: "fdba30" # yellow (North Shore & Western)
+base0B: "48a942" # green (Airport & East Hills)
+base0C: "72cdf4" # aqua (South Line)
+base0D: "0078c1" # blue (Eastern Suburbs & Illawarra)
+base0E: "b53e96" # purple (Cumberland)
+base0F: "7e81be" # brown (Inner West)

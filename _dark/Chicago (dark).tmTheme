@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-	Name:		Subway: Chicago
+	Name:		Subway: Chicago (dark)
     Author:		Jan T. Sott
     License:	Public Domain Mark 1.0
     URL:		https://github.com/idleberg/Subway.tmTheme
@@ -15,25 +15,25 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Subway: Chicago</string>
+	<string>Subway: Chicago (dark)</string>
 	<key>comment</key>
 	<string>https://github.com/idleberg/Subway.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.light.subway.chicago</string>
+	<string>theme.dark.subway.chicago</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#e3dcd0</string>
+		<string>#1e1d1c</string>
 		<key>divider</key>
-		<string>#e3dcd0</string>
+		<string>#1e1d1c</string>
 		<key>foreground</key>
-		<string>#4b4945</string>
+		<string>#6c6d70</string>
 		<key>selectionBackground</key>
-		<string>#e3dcd0</string>
+		<string>#4b4945</string>
 		<key>selectionForeground</key>
-		<string>#afaaa1</string>
+		<string>#8a8c8d</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -41,17 +41,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e3dcd0</string>
+				<string>#000000</string>
 				<key>caret</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 				<key>foreground</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 				<key>invisibles</key>
-				<string>#c5bfb4</string>
+				<string>#6c6d70</string>
 				<key>lineHighlight</key>
-				<string>#c5bfb4</string>
+				<string>#1e1d1c</string>
 				<key>selection</key>
-				<string>#c5bfb4</string>
+				<string>#4b4945</string>
 			</dict>
 		</dict>
 		<dict>
@@ -62,7 +62,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -73,7 +73,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8a8c8d</string>
+				<string>#6c6d70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -84,7 +84,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -95,7 +95,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -106,7 +106,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4b4945</string>
+				<string>#afaaa1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -150,7 +150,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f7921d</string>
+				<string>#fff200</string>
 			</dict>
 		</dict>
 		<dict>
@@ -330,7 +330,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#f7921d</string>
+				<string>#fff200</string>
 			</dict>
 		</dict>
 		<dict>
@@ -409,9 +409,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#c5bfb4</string>
-				<key>foreground</key>
 				<string>#4b4945</string>
+				<key>foreground</key>
+				<string>#afaaa1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -501,11 +501,11 @@
 				<key>background</key>
 				<string>#e0163d</string>
 				<key>foreground</key>
-				<string>#e3dcd0</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>3ef71b4a-d143-4966-8ec3-4a8da997c752</string>
+	<string>0eb6da5b-29e7-4c71-8d9c-a469b842669f</string>
 </dict>
 </plist>

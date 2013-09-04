@@ -9,7 +9,7 @@ base04: "8a8c8d" # +
 base05: "afaaa1" # ++
 base06: "c5bfb4" # +++
 base07: "e3dcd0" # ++++
-base08: "ee1b2d" # e0163d (Red)
+base08: "e0163d" # red (Red)
 base09: "f7921d" # orange (Orange)
 base0A: "fff200" # yellow (Yellow)
 base0B: "009e58" # green (Green)
