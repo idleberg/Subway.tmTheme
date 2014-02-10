@@ -19,7 +19,8 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Subway.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.dark.subway.sydney
+	<string>theme.dark.subway.sydney</string>
+	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
