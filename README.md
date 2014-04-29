@@ -16,7 +16,7 @@ Since most subway maps feature a color palette optimized for readability on brig
 #### Package Control
 
 1. Make sure you already have [Package Control][2] installed
-2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select *Subway Color Schemes* and press `Enter`
 
 With [auto_upgrade][3] enabled, Package Control will keep all installed packages up-to-date!
@@ -24,8 +24,8 @@ With [auto_upgrade][3] enabled, Package Control will keep all installed packages
 #### Manual Installation
 
 1. Download a `.tmTheme` file
-2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Copy the `.tmTheme` file to `Packages\User`
+2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
+3. Copy the `.tmTheme` file to `Packages`
 
 ## License
 
